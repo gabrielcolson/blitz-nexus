@@ -15,6 +15,12 @@ web_modules/
 .blitz-console-history
 blitz-log.log
 
+# nexus
+.nexus
+
+# IDE
+.idea
+
 # misc
 .DS_Store
 
